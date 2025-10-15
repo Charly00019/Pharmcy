@@ -1,0 +1,17 @@
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\bin\Debug\net6.0-windows\PharmacyManagementSystem.exe
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\bin\Debug\net6.0-windows\PharmacyManagementSystem.deps.json
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\bin\Debug\net6.0-windows\PharmacyManagementSystem.runtimeconfig.json
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\bin\Debug\net6.0-windows\PharmacyManagementSystem.dll
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\bin\Debug\net6.0-windows\PharmacyManagementSystem.pdb
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\PharmacyManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\PharmacyManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\PharmacyManagementSystem.AssemblyInfo.cs
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\Pharmacy.3F0D6835.Up2Date
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\PharmacyManagementSystem.dll
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\refint\PharmacyManagementSystem.dll
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\PharmacyManagementSystem.pdb
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\PharmacyManagementSystem.genruntimeconfig.cache
+C:\Users\Gevey\Pharmacy\PharmacyManagementSystem\obj\Debug\net6.0-windows\ref\PharmacyManagementSystem.dll
